@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+scikit-learn
+xgboost
+shap
+pandas
+numpy
+joblib
+python-dotenv
+huggingface_hub
+pydantic
+matplotlib
+seaborn
+ipykernel
+python-multipart
+tensorflow
+pillow
