@@ -7,7 +7,7 @@
 
 AgroMind is a full-stack Machine Learning web application designed to empower Indian smallholder farmers with data-driven agricultural decisions. The system analyzes soil parameters (N, P, K, pH) and climate sensors (Temperature, Humidity, Rainfall) to provide highly accurate crop recommendations, estimated yields, and soil profile clustering.
 
-In **v2**, the manual soil parameter form is replaced by a **soil photo upload + region selector**: a CNN trained from scratch classifies the image into one of 8 soil types, maps it to NPK/pH ranges via an agronomic lookup table, combines with regional climate data, and passes the full feature vector to the existing ensemble crop recommender.
+In **Part 2**, the manual soil parameter form is replaced by a **soil photo upload + region selector**: a CNN trained from scratch classifies the image into one of 8 soil types, maps it to NPK/pH ranges via an agronomic lookup table, combines with regional climate data, and passes the full feature vector to the existing ensemble crop recommender.
 
 ---
 
